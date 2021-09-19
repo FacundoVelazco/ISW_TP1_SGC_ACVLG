@@ -3,3 +3,4 @@
 
 # Archivos a ignorar
 ignorame.txt
+*.class
