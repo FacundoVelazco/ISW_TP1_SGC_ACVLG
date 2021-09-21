@@ -11,8 +11,5 @@ public class Main {
 		
 		
 		//Este es el cambio A del punto j
-		
-		
-		//Este es el cambio BAD_CONTEXT del punto j
     }
 }
